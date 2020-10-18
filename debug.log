@@ -1,0 +1,3 @@
+[1017/214859.243:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Marcos\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\75d82d4e-2413-44a4-a33f-b9fb098778f9: O sistema não pode encontrar o caminho especificado. (0x3)
+[1017/215135.194:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Marcos\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\067fdc81-af3f-4a54-b32b-ce664e328961: O sistema não pode encontrar o caminho especificado. (0x3)
+[1017/215420.050:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Marcos\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\6ad555d9-b596-44bc-ab4c-2ea222aa7901: O sistema não pode encontrar o caminho especificado. (0x3)
